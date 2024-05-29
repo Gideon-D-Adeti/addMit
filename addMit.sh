@@ -29,10 +29,10 @@ while [[ $# -gt 0 ]]; do
             shift
             commit_message="$1"
             break
-            ;;
+        ;;
         *)
             files+=("$1")
-            ;;
+        ;;
     esac
     shift
 done
