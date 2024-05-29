@@ -23,7 +23,7 @@ cloneO https://github.com/Gideon-D-Adeti/addMit.git
 sudo cp addMit/addMit.sh /usr/local/bin/addMit
 sudo chmod +x /usr/local/bin/addMit
 ```
-Or if you used cloneO:
+Or if you used [cloneO](https://github.com/Gideon-D-Adeti/cloneO):
 ```bash
 sudo cp addMit.sh /usr/local/bin/addMit
 sudo chmod +x /usr/local/bin/addMit
